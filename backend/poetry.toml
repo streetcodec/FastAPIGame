@@ -1,0 +1,4 @@
+[virtualenvs]
+in-project = true
+
+# made ussing: poetry config virtualenvs.in-project true --local, to create venv in local folder.
